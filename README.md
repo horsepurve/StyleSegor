@@ -1,4 +1,3 @@
-# DeepHV
-Deep Learning for Whole-Heart and Great Vessel Segmentation from 3D Cardiovascular MRI in Congenital Heart Disease
+# StyleSegor
 
 Available after online publication.
