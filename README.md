@@ -1,3 +1,3 @@
-# StyleSegor
+# Neural Style Transfer Improves 3D Cardiovascular MR Image Segmentation on Inconsistent Data
 
-Available after online publication.
+![](img/bitmap.png)
